@@ -5,9 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying System Analysis and Development on Estácio, Recife.
-- 🎓 &nbsp; Studying Data Science on UNIFAEL.
-- 💼 &nbsp; Working as a Trainee on FUNDACENTRO.
+- 🎓 &nbsp; Graduating in computer engineering at Uninassau, Recife.
+- 💼 &nbsp; Fellow at FUNDACENTRO.
 - 🌱 &nbsp; Learning more about Java and Backend Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
