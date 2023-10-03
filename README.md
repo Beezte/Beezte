@@ -43,7 +43,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/baazante/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-baazante-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/euubazante/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-euubazante-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kawabazante@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kawabazante@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
