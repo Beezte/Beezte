@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Beezte, or, Kawã</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduating in computer engineering at Uninassau, Recife.
