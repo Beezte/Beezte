@@ -2,7 +2,6 @@
 
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduating in computer engineering at Uninassau, Recife.
 - 💼 &nbsp; Fellow at FUNDACENTRO.
 - 🌱 &nbsp; Learning more about Java and Backend Development.
