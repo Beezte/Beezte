@@ -37,6 +37,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/baazante/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-baazante-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:kawabazante@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kawabazante@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:kawa.silva@sou.inteli.edu.br"><img alt="Email" src="https://img.shields.io/badge/Email-kawa.silva@sou.inteli.edu.br-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:kawabazante@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kawabazante@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 </p>
 
