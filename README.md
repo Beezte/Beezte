@@ -2,7 +2,7 @@
 
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Graduating in computer engineering at Uninassau, Recife.
+- 🎓 &nbsp; Graduating in computer engineering at Inteli, São Paulo.
 - 💼 &nbsp; Fellow at FUNDACENTRO.
 - 🌱 &nbsp; Learning more about Java and Backend Development.
 
