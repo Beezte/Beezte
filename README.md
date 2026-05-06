@@ -3,12 +3,13 @@
 <h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduating in computer engineering at Inteli, São Paulo.
-- 💼 &nbsp; Fellow at FUNDACENTRO.
-- 🌱 &nbsp; Learning more about Java and Backend Development.
+- 💼 &nbsp; Former fellow at FUNDACENTRO (Brazilian Ministry of Labor and Employment)
+- 🌱 &nbsp; Expanding my expertise in AI and Server Infrastructure (Scalability, Security & Microservices)..
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
